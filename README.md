@@ -1,0 +1,1 @@
+This is the repository of model codes for fitting patient datasets (xCelligence assay) on CAR-T cells and tumor cells interaction in vitro. The model is published in Frontiers in Immunology, May 2026.
